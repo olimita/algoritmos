@@ -23,3 +23,5 @@ class Main {
     Serie fibo = new Serie(n);
     System.out.println(fibo.arreglo[n]);
   }}
+
+//overflow para n = infinitus
